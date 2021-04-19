@@ -8,7 +8,7 @@ body {
     background: transparent;
     border: none;
     resize: none;
-    color: #000000;
+    color: white;
     border-left: 1px solid black;
     padding: 10px;
   }
@@ -71,11 +71,12 @@ body {
   }
   
   .form-control {
-    background-color: greenyellow;
+    background-color: rgb(153, 0, 255);
+    color: white;
   }
 
   .input-group {
     background-color: rgb(153, 0, 255);
     border-radius: 5px;
-    color: white;
+    color:white;
   }
